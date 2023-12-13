@@ -1,5 +1,5 @@
 [submodule "job-board-backend"]
-	path = job-board-backend
+	path = https://github.com/ayaAbdelhakeem18/job-board-backend
 	url = ./job-board-backend
 [submodule "job-board-frontend-"]
 	path = job-board-frontend-
