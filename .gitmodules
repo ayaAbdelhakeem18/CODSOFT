@@ -1,0 +1,6 @@
+[submodule "job-board-backend"]
+	path = job-board-backend
+	url = ./job-board-backend
+[submodule "job-board-frontend-"]
+	path = job-board-frontend-
+	url = ./job-board-frontend-
